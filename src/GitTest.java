@@ -6,5 +6,7 @@ public class GitTest {
 		RyangTest r = new RyangTest();
 		r.ryang();
 		
+		System.out.println("hi");
+		
 	}
 }
